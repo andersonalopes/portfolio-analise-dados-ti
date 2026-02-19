@@ -18,6 +18,21 @@ Análise de chamados técnicos com foco em:
 - Tempo médio de resolução
 - Desempenho por técnico
 
+  portfolio-analise-dados-ti
+│
+├── powerbi
+│   └── dashboard_chamados.pbix
+│
+├── dados
+│   ├── chamados_suporte.csv
+│   └── clientes.csv
+│
+├── sql
+│   └── analises.sql
+│
+└── README.md
+
+
 ## Projeto 2 – Análise SQL
 Consultas SQL para análise de dados operacionais, utilizando filtros, agregações e JOINs.
 
